@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Progressus - Free business/corporate Bootstrap template
 =============
 
@@ -30,3 +31,9 @@ Credits
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
 * Photos used in template: **Unsplash** - http://unsplash.com
 * More free templates by Sergey: http://gettemplate.com
+=======
+progesus
+========
+
+new spark repostitory to work on from home and office
+>>>>>>> 0ac681366e01c1dc61dd9f085515f94380d9de66
